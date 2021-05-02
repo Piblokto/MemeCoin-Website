@@ -1,5 +1,5 @@
 # MemeCoin
-[View the website](doge.oliverlouis.com)
+[View the website](https://doge.oliverlouis.com)
 ## About
 Back near the end of January, after the first spike in value of DOGE, I bought 20,000 DogeCoin at about $1,300 Australian Dollars. At the time, I didn't have much faith in the crypto-currency, I went in completely for the memes, expecting just to lose my money, and to get a funny story out of this. Everyone around me agreed that this was a horrible idea, and that I was basically just burning money. Nonetheless, I still hung in there, and as of May, I've nearly octupled my investment.
 
