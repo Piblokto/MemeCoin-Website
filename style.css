@@ -1,0 +1,110 @@
+@font-face {
+    font-family: SFBold;
+    src: url('fonts/SanFranciscoDisplay-Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: SFRegular;
+    src: url('fonts/SanFranciscoDisplay-Regular.otf') format("opentype");
+}
+
+bold {
+    font-family: SFRegular;
+}
+
+p {
+    font-family: SFRegular;
+    color: black;
+    margin: 0;
+}
+
+body {
+    background-image: url('img/background2.png');
+    background-size: cover;
+    background-color: #b9a232;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.header {
+    overflow: hidden;
+    padding: 10px 10px;
+    width: 100vw;
+    height: 5vh;
+  }
+
+.footer {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 3vh;
+}
+
+.left {
+    float: left;
+    padding-left: 30px;
+    padding-top: 5px;
+  }
+.left a {
+    color: black;
+    text-decoration: none;
+}
+.left-bottom {
+    float: left;
+    padding-left: 30px;
+}
+
+.right {
+    float: right;
+    padding-right: 30px;
+}
+
+.is-vertical-center {
+    display: flex;
+    align-items: center;
+  }
+
+.footer-width {
+    overflow: hidden;
+    padding: 20px 10px;
+    width: 300px;
+}
+
+
+.centre-container {
+    margin: auto;
+    width: 50%;
+    top: 50%
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30vh
+  }
+
+.centre-container a {
+    font-family: SFBold;
+    color: black;
+    font-size: 2vh;
+}
+.centre-container2 {
+    margin: auto;
+    width: 50%;
+    top: 50%
+    padding: 10px;
+    text-align: center;
+  }
+h1 {
+    font-family: SFBold;
+    font-size: 10vh;
+    margin: 0;
+    padding: 0;
+  }
+
+h2 {
+    font-family: SFRegular;
+    font-size: 3vh;
+    margin: 0;
+    padding: 0;
+}
