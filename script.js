@@ -22,5 +22,7 @@ function currentprofit()
     cprice = coinprice.data.prices[0].price
     coinprice = cprice * doge_amount 
     current_profit = coinprice - doge_investment
-    return current_profit;
+    profit = current_profit.toFixed(2)
+    profit_commas = profit.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+    return profit_commas;
 }
